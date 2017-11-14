@@ -100,7 +100,7 @@ class Socks5Server(SocketServer.StreamRequestHandler):
             sock = self.connection
             addrtype = ord(self.decrypt(sock.recv(1)))
             if addrtype == 1:
-                addr = socket.inet_ntoa(self.decrypt(self.rfile.read(4)))
+                addr = socket.inet_ntoa(self.decrypt(self.rfile.read(4)))#inet_ntoa is used to convert ip address to "192.168.2.3" format
             elif addrtype == 3:
                 addr = self.decrypt(
                     self.rfile.read(ord(self.decrypt(sock.recv(1)))))
@@ -108,7 +108,7 @@ class Socks5Server(SocketServer.StreamRequestHandler):
                 # not support
                 logging.warn('addr_type not support')
                 return
-            port = struct.unpack('>H', self.decrypt(self.rfile.read(2)))
+            port = struct.unpack('>H', self.decrypt(self.rfile.read(2)))#get port number
             try:
                 logging.info('connecting %s:%d' % (addr, port[0]))
                 remote = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
