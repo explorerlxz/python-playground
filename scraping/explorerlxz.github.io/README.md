@@ -15,13 +15,13 @@ print(bsObj)
 输出信息保存到文件中：
 
 
-```
+```shell
 python3 index.py >> index.html
 ```
 
-## 爬取主页面的所有链接和标题。
+## 爬取主页面的所有链接和标题
 
-```
+```python
 from urllib.request import urlopen
 import re
 from bs4 import BeautifulSoup
@@ -37,7 +37,7 @@ for name in nameList:
 
 把输出信息保存到文件：
 
-```
+```shell
 python3 scrabing.py >>links.txt
 ```
 
