@@ -1,0 +1,36 @@
+https://explorerlxz.github.io/2017/12/14/decompile-android-application.html
+反编译安卓程序
+https://explorerlxz.github.io/2017/12/11/wechat-database.html
+解密微信数据库
+https://explorerlxz.github.io/2017/11/17/ubuntu.html
+Ubuntu桌面环境问题与解决方案
+https://explorerlxz.github.io/2017/11/08/Linux-Kernel.html
+Linux Kernel
+https://explorerlxz.github.io/2017/10/27/android.html
+Android开源系统，刷机，开发板
+https://explorerlxz.github.io/2017/09/12/adb.html
+adb命令的使用
+https://explorerlxz.github.io/2017/07/22/shell-commands.html
+Interesting shell commands
+https://explorerlxz.github.io/2017/07/22/jekyll-markdown-blog.html
+Make your uniq markdown blog
+https://explorerlxz.github.io/2017/07/21/Random-Password.html
+生成随机密码
+https://explorerlxz.github.io/2017/07/19/shadowsocks-study-notes.html
+Learn python from shadowsocks
+https://explorerlxz.github.io/2017/07/15/regular-expression.html
+Regular Expression
+https://explorerlxz.github.io/2017/07/11/DIY-PC.html
+DIY PC
+https://explorerlxz.github.io/2017/06/30/ffmpeg-usage.html
+ffmpeg(avconv)使用说明
+https://explorerlxz.github.io/2017/06/19/Vim.html
+vim使用小技巧
+https://explorerlxz.github.io/2017/06/19/OpenSSL.html
+OpenSSL学习笔记
+https://explorerlxz.github.io/2017/06/16/TRANSLATE-Tutorial-on-GMP.html
+GMP入門教程(译)
+https://explorerlxz.github.io/2017/06/16/RSA-gmplib.html
+GMP库学习笔记，可用于RSA加密算法
+https://explorerlxz.github.io/2016/10/18/%E5%B8%B8%E7%94%A8%E9%93%BE%E6%8E%A5.html
+常用网站及工具汇总，长期更新
